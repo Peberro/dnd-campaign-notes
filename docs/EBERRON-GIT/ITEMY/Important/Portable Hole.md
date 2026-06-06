@@ -1,0 +1,1 @@
+https://5e.tools/items.html#portable%20hole_xdmg

@@ -1,0 +1,1 @@
+1/dzien mozna aktywowac jako bonus akcja i na 1h daje +1 AC i +1 do saving throwow, i podczas tej godziny jak sie pierwszy raz spadnie do 0 hp to wraca sie do 1 hp

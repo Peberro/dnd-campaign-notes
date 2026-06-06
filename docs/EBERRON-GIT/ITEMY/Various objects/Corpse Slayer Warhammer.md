@@ -1,0 +1,1 @@
+https://5e.tools/items.html#corpse%20slayer%20warhammer_egw

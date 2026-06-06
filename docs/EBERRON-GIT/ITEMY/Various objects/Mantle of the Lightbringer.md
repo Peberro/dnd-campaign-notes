@@ -1,0 +1,1 @@
+https://5e.tools/items.html#mantle%20of%20the%20lightbender_fleemortals
