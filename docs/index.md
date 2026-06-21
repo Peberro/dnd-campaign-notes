@@ -1,7 +1,7 @@
 # Ostatnia sesja (S67 - 2026.06.14)
 #### Cast
-[[notes-github/dnd-campaign-notes/docs/EBERRON/POSTACIE/POSTACIE GŁÓWNE/Dagan]] [[notes-github/dnd-campaign-notes/docs/EBERRON/POSTACIE/POSTACIE GŁÓWNE/Iskierka]] [[notes-github/dnd-campaign-notes/docs/EBERRON/POSTACIE/POSTACIE GŁÓWNE/Kalera]] [[notes-github/dnd-campaign-notes/docs/EBERRON/POSTACIE/POSTACIE GŁÓWNE/Teflon]] [[notes-github/dnd-campaign-notes/docs/EBERRON/POSTACIE/POSTACIE GŁÓWNE/Khon]] 
-***
+[[Teflon]] [[Kalera]] [[Iskierka]] [[Khon]] [[Dagan]] 
+
 # Główne wydarzenia 
 1. walka 
 
