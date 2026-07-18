@@ -1,65 +1,58 @@
-# Ostatnia sesja (S67 - 2026.06.14)
+# Ostatnia sesja (S68 - 2026.06.21)
 #### Cast
-[[Teflon]] [[Kalera]] [[Iskierka]] [[Khon]] [[Dagan]] 
-
+[[Kalera]] [[Iskierka]] [[Teflon]] [[Khon]] 
+***
 # Główne wydarzenia 
-1. walka 
 
-walka smokow 
+lista zakupow: 
+scoll counterspell x2 each (12 + 2 dla khon) 4200gp
+scroll speak with the dead x3 1200gp 
+disguise self x 3 225gp 
 
-szmaragdowy szpon?
-
-smok nie zyje
-
-maszyna repeatuje przepowiednie z kiedys? 
+pamietac o odebraniu laleczek z zbawienia
 
 
-ksiaze opowiada nam wiecej o odlewni zycia ( ta kuznia pod making, najwieksza a za razem eksperymentalna, potrafila wytworzyc nawet 500 warforged dzziennie, napedzana sferycznymi (???) czyms w jaskini naturalnie wyspetujace strefy manifestacji innych sfer ) sharn jest zbudowane na sferze manifestacji sfer IM CONFUSED WHAT IS THIS 
+teflon rzuca legend lore na szmaragdowy szpon (smoka)
+zaklecie nie dziala rip
 
-anyway
-kanici nie wynalezli tych kuzni, zostaly zaadaptowane na zendrik and some other place REEALLY OLD az z czasu wojny z dal quor? 
-anyway for sure maja jakiegos kanithe bo trzeba byc naznaczonym zeby z nich korzystac 
+cos o lordzie ostrzy in that case:
+nikt nie wie skad sie wzal i czy taki zostal stworzony? Nauczyciel, filozof, mesjasz, prokok, rasistowska psychopatyczna postac uhhh
+bardzo charyzmatyczny, zjednoczyl warforged; przemawial do ludu "jest taki swiat w ktorym polaczone warforged sa w stanie wywrocic uklad swiata, ci obici w skore nie beda miec szans"
+bardzo nienawistnie podchodzil do ksiecia oargeva i probowal sie go wiele razy pozbyc, 
 
-jezeli ktos wspomaga te warforged to uuhhh oni tam tworza warforged zwierzeta i tych teflonopodobnych co sie komunikuja telepatyczine, albo warforged eksperymentuja albo ten kanita jest giga mozgiem tej calej sprawy, 
+rumeo dkanith next 
+zaklecie trabi nic sie nie da dowiedziec 
 
-tych kuzni nie da sie wylaczyc, tylko real kanici wiedza co i jak, 
-well wychodzi na to ze trzeba pozbyc sie or do something z ta osoba co tam tym steruje 
+[[Sharn]] 
+gods
 
-nad argonessen. smoki maja wlasny rząd, konklawa co nimi tam rządzi? 
-konklawa =/= komnata,
-konklawa od smoczych znakow, 
-komnata niewielka grupa ktore operuja poza argonessen i obserwuja wszystkich co sa zwiazani z przepowiednia i znakami, tacy special agents, ponoc jmieli cos w zwiazku z rozbiciem tego 13 znaku 
+najbardziej zaludnione miasto 1.5m ppl, 
+sklada sie z wielu warstw, zbudowane na undamentach ktore siegaja az do imperium dakanskiego (TURBO OLD)
+miasto ktore nie wiem jak napisac mialo cala mase rzeczy pod ziemia ale runelo jak daelkeyry przybyly, tysiace lat pozniej przybyli ludzie z sarlony jakis chlop ze swita pojmali reszte goblinow i powstalo miasto sharn 
+o kuzni za malo osob wie zeby cos powiedziec 
+magia lotu silniejsza niz gdziekolwiek indziej na swiecie 
 
-periwinkle jest obserwatorem z komnaty, taka byla jego rola, mial obserwowac przepowiednie, vyndesila to co mowila ejst troche pomylone, ona byla jednym z tych "ksztaltujacych", wewnatrz komnaty sa dwie drogi, ksztaltujacy i obserwujacy, 
-periwinkle byl bliski podjecia akcji ale jednak nie :)) yay!! he is a fren 
 
-woah teraz periwinkle odkrywa karty 
-w komnacie sa te dwie frakcje no i jest jeden smok ktory im przewodzi, really old najstarszy z nich (not overall but still really old), w porownaniu do niego periwinkle jest p young, 
-jego imie jest skryte w czelusci archiwum argonessen, jest znany jako szmaragdowy szpon, przywodca komnaty, szmaragdowy szpon wyrabal sobie troche politycznego miejsca tam, on dokonal zjednoczenia smoka i elfiego domu vola dawno dawno temu, tam ten smoczy znak smierci sie zapoczatkowal, fast forward to ze ci terrorysci tutaj robia to co robia to moze byc jeden z jego planow, to ze periwinkle jest tu z nami to to tez jego byl rozkaz 
 
-wskazuje na pudelko z farbkami - to co lady trzymala tam w jeziorku to omen, zielony smok szpon cos tam, konfrontacja z krolem w zieleni jest nieunikniona, 
+lore *tamtego dnia* kalera wyszukuje
 
-smoki sa very autistic i lubia kolekcjonowac i kategoryzowac wszystko zwiazane z smocza przepowiednia i patrzec sobie na nie 
+bitwa o kalazart 
+karnaci przyszli probowali przejac kalazart massive massive bijatyka, 
+wojsko cyranskie mieli "wsparcie prototypowej maszyny taktycznej"
+nie udalo sie karnatom przedostac do miasta (trebusze ect)
+emelia mazela (??) dowodzila cyranom
+miala doradce taktycznego ktory zapisany jest jako wicher plomienia (woah blast from the past)
+cyranow chronil warforged kolos, wx 31 karn slayer 
+nawet jest mapka zaznaczone sily ect, cyranie na defensywie 
 
-z perspektywy smoka my nie jestesmy warci posiadania tego >:( 
+lore o kalazart 
 
-kufer zaczyna sie trzasc i dymic, swiatla dookola migaja i kufer wydaje sie tez roznokolorowo migac, trzy glosy ktore lacza sie w jedno, skrzynia troche jak pralka wibruje, papier zaczyna drukowac puste kartki, 
-dziny przemawiaja:
-mozemy dac wam tego czego potrzebujecie, dary poza wiedza smiertelna, potrzebujemy JEDNA rzecz, tajemny kodeks wyroczni wojny i bedziemy wolni YIPPII!!! instrukcja obsługi???? ta ktora nie przetrwala eksperymentu, ta ktora zostala stracona w dniu zalosci, mozemy otworzyc dla was przejscie i musicie to dla nas zrobic ZORIAT wymiar szalenstwa jest blisko, w zasiegu naszych rak, jezeli to zrobicie to wszystkie tajemnice stworcy wyroczni beda dla nas otworem, 
-oni mog aotworzyc ten wymiar i ten dzien w ktorym cyre zginelo tam byc 
+kalazart cyranskie miasto ktore bylo jednym z wiekszych, mialo zalazek polaczenia kolei blyskawicznej do metrolu i do (x), slynelo z wielkich bazarow, podczas ostatniej wojny zmienialo rece niestety, przejwija sie w historii ze najemnicy byli najmowani do obrony bo thranczycy cos tam 
+w 983 (10 lat od dnia x ) thrane przejal miasto i je zlupili, glownie biblioteki po czym sie wycofali, stamtad byly wysylane ataki do thrane, cyranie mieli najemnikow z talenta planes, a w samym miescie bylo zachodnim centrum handlowym, tekstylia world famous, bardzo luksusowe ubrania na caly swiat, wlasciwie thats it 
+nie zostalo podbite podczas ostatniej wojny przez karnatow
 
-kodeks ktory posiadali -pod miastem kalazart- bylo ich trzech, 
-mielismy dobry punkt
 
-rumeo d kanith mial ten kodeks 
-zeby otworzyc go to byla v important thing dla kanithy 
+dom medani do przesluchiwan 
 
-trzy szyfry, trzy hasla, 
 
-kodeks a w nim odpowiedz jak zakonczyc ta historie 
-
-tam byl ten test i tam bylo nasze wiezienie dopoki nas nie znalezliscie, wymiar szalenstwa nie ma zasad, to nie bedzie zwykla wizja, wy staniecie tam znajdziecie co trzeba a potem wezniemy was z powrotem 
-
-bez kodeksu nie da sie zniszczyc wyroczni 
-
-19 lvl 
+kalera zamienia ksiecia w smoka krysztalowego 
