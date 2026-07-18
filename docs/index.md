@@ -1,58 +1,84 @@
-# Ostatnia sesja (S68 - 2026.06.21)
+# Ostatnia sesja (S69 - 2026.07.04)
 #### Cast
-[[Kalera]] [[Iskierka]] [[Teflon]] [[Khon]] 
+Wszyscy!
 ***
 # Główne wydarzenia 
 
-lista zakupow: 
-scoll counterspell x2 each (12 + 2 dla khon) 4200gp
-scroll speak with the dead x3 1200gp 
-disguise self x 3 225gp 
+Zbieramy się przed wyrocznią w salonie królewskim
 
-pamietac o odebraniu laleczek z zbawienia
+Dżiny pojawiają się
 
+"nie rozglądajcie się , nie wnikajcie, Xoriat to droga do szaleństwa przez szaleństwo"
 
-teflon rzuca legend lore na szmaragdowy szpon (smoka)
-zaklecie nie dziala rip
+zabierze nas na krótki czas przed wybuchem w Cyre
 
-cos o lordzie ostrzy in that case:
-nikt nie wie skad sie wzal i czy taki zostal stworzony? Nauczyciel, filozof, mesjasz, prokok, rasistowska psychopatyczna postac uhhh
-bardzo charyzmatyczny, zjednoczyl warforged; przemawial do ludu "jest taki swiat w ktorym polaczone warforged sa w stanie wywrocic uklad swiata, ci obici w skore nie beda miec szans"
-bardzo nienawistnie podchodzil do ksiecia oargeva i probowal sie go wiele razy pozbyc, 
+Wszelkie akcje które podejmiemy mogą zmienić przyszłość ALE jesteśmy karani za każdą zmianę (psychic damage), w najgorszym przypadku Xoriat przeleje się do naszego wymiaru (game over)
 
-rumeo dkanith next 
-zaklecie trabi nic sie nie da dowiedziec 
+Paradoksy:
+BARDZO ŹLE (zbiorowo)
+1. nie ginąć
+2. nie zaprzeczać teraźniejszosci (np kalazart przegra, cyre nie wybuchnie)
 
-[[Sharn]] 
-gods
+Troche złe (od osoby, nie dokońca negatyw, pierwsze 8-10 są ok):
+1. High LVL (5+ lvl) spelle
+2. Spotkanie siebie (jak nas rozpoznają)
 
-najbardziej zaludnione miasto 1.5m ppl, 
-sklada sie z wielu warstw, zbudowane na undamentach ktore siegaja az do imperium dakanskiego (TURBO OLD)
-miasto ktore nie wiem jak napisac mialo cala mase rzeczy pod ziemia ale runelo jak daelkeyry przybyly, tysiace lat pozniej przybyli ludzie z sarlony jakis chlop ze swita pojmali reszte goblinow i powstalo miasto sharn 
-o kuzni za malo osob wie zeby cos powiedziec 
-magia lotu silniejsza niz gdziekolwiek indziej na swiecie 
+Nie możemy restować (at all), nie jest jasne co tam się stanie 
 
+POWODZENIA
 
+spadamy freefall gasp budzimy się w różnych miejscach na świecie (scenki postaci)
 
-lore *tamtego dnia* kalera wyszukuje
++1 hero point dla wszystkich
 
-bitwa o kalazart 
-karnaci przyszli probowali przejac kalazart massive massive bijatyka, 
-wojsko cyranskie mieli "wsparcie prototypowej maszyny taktycznej"
-nie udalo sie karnatom przedostac do miasta (trebusze ect)
-emelia mazela (??) dowodzila cyranom
-miala doradce taktycznego ktory zapisany jest jako wicher plomienia (woah blast from the past)
-cyranow chronil warforged kolos, wx 31 karn slayer 
-nawet jest mapka zaznaczone sily ect, cyranie na defensywie 
+pojawiamy się na froncie, chaos, żołnierze, śmierć
 
-lore o kalazart 
+khon zamienia się w smoka i dostajemy różne efekty wojenne (smok staje w płomieniach)
 
-kalazart cyranskie miasto ktore bylo jednym z wiekszych, mialo zalazek polaczenia kolei blyskawicznej do metrolu i do (x), slynelo z wielkich bazarow, podczas ostatniej wojny zmienialo rece niestety, przejwija sie w historii ze najemnicy byli najmowani do obrony bo thranczycy cos tam 
-w 983 (10 lat od dnia x ) thrane przejal miasto i je zlupili, glownie biblioteki po czym sie wycofali, stamtad byly wysylane ataki do thrane, cyranie mieli najemnikow z talenta planes, a w samym miescie bylo zachodnim centrum handlowym, tekstylia world famous, bardzo luksusowe ubrania na caly swiat, wlasciwie thats it 
-nie zostalo podbite podczas ostatniej wojny przez karnatow
+locate object pinguje nam do kalazartu, w środku Rumeo d'Cannith i wielki moe 
 
+bazar znajomy nam w kalazarcie 
 
-dom medani do przesluchiwan 
+znajdujemy rumeo, spotykamy immerala, bijatyka
+wyciągamy rumeo, gadamy z nim on ma kodex etc etc trzy hasła musimy znaleźć:
+agenci są w:
+wieży obserwacyjnej
+centrum dowodzenia
+namiotach medycznych
 
+teflon walka z immeralem, niszczy różę, PARADOKS 
 
-kalera zamienia ksiecia w smoka krysztalowego 
+w centrum dowodzenia general emelia mazella i [[EBERRON/POSTACIE/NPC/Wicher Płomienia|Wicher Płomienia]]
+agent pyta nas o hasło
+[[EBERRON/QUESTY/PHIRAME|PHIRAME]]
+dostajemy hasło SIBER (dagan i kalera), rozmowa o wyroczni wojny. miala error jak pytali o strategie i powiedziała:
+
+> Gdy ostrza rebelii uderzą przeciw królowi, złodziej zostawi swoją nagrodę na wieży, a smoki spłoną nocą.
+
+to samo z innym agentem, (iskierka) ale przychodzi za późno
+
+arimart i khon szukają w namiotach medycznych, ale są zniszczone
+
+wielka fala mgły, pętla w czasie,
+
+pojawiamy się na froncie, chaos, żołnierze, śmierć
+
+obok ci drudzy khon zamieniają się w smoka i dostają różne efekty wojenne (smok staje w płomieniach)
+
+GASP! szybko wszyscy w swoją stronę
+udaje się daganowi i iskierce dostać hasło KORVUS, agent opowiada o tym że stracili łączność we wschodnym Cyre, sugeruje że karnaci użyli czegoś
+
+kalera i arimart idą kodeks zabrać, kalera w przebraniu immerala grilluje co wie na temat tego co zaraz się wydarzy, obiecuje jego bliską oszczędzić.
+immeral mówi że "chciwość ludzka" i że "cyranie się wkopali" w temacie wybuchu cyre 
+
+teflon i khon idą do namiotów medycznych, w końcu znajdują kobietę agentkę
+SIERŻANT [[EBERRON/POSTACIE/NPC W PARTY/Sofia Blackwell|Sofia Blackwell]] !!
+jest ranna, dostaje potiona, dostają hasło DEVEN.
+
+fireball wybucha i zabija wszystkich w środku 
+
+przegrupowanie na murach, party odpycha karnatów i próbujemy ratować kogo popadnie w szalik
+sim salabim!! wracamy do teraźniejszości
+mamy kodex 
+
+LEVEL UP (level 20)
